@@ -1,12 +1,16 @@
-Primer Parcial - Programación I
-Este repositorio contiene la resolución del Primer Parcial correspondiente a la materia Programación I, dictada en la Tecnicatura en Programación de la Universidad de Ciencias Empresariales y Sociales (UCES).
+# Primer Parcial - Programación I
 
-Nombre: Facundo Guiraldes
+Este repositorio contiene la entrega del **Primer Parcial** para la materia **Programación I**, correspondiente a la **Tecnicatura en Programación** de la **UCES** (Universidad de Ciencias Empresariales y Sociales).
 
-Carrera: Tecnicatura en Programación
+---
 
-Institución: UCES
+## Datos del Alumno
+* **Nombre:** Facundo Guiraldes
+* **Institución:** UCES
+* **Carrera:** Tecnicatura en Programación
+* **Materia:** Programación I
 
-Año: 2026
+---
 
-El objetivo de este examen parcial fue demostrar los conocimientos adquiridos durante la primera etapa de la cursada. El proyecto se enfoca en resolver problemáticas mediante el uso de lógica de programación, estructuras de control y manejo de datos.
+##  Descripción
+El proyecto consiste en la resolución técnica de las consignas planteadas durante la instancia de evaluación del primer parcial. Se enfoca en aplicar los fundamentos de la programación y la lógica algorítmica desarrollados durante la primera mitad del cuatrimestre.
