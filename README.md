@@ -1,6 +1,6 @@
-# Primer Parcial - Programación I
+# Parciales - Programación I
 
-Este repositorio contiene la entrega del **Primer Parcial** para la materia **Programación I**, correspondiente a la **Tecnicatura en Programación** de la **UCES** (Universidad de Ciencias Empresariales y Sociales).
+Este repositorio contiene la entrega del **Primer Parcial** y **Segundo Parcial** para la materia **Programación I**, correspondiente a la **Tecnicatura en Programación** de la **UCES** (Universidad de Ciencias Empresariales y Sociales).
 
 ---
 
@@ -13,4 +13,4 @@ Este repositorio contiene la entrega del **Primer Parcial** para la materia **Pr
 ---
 
 ##  Descripción
-El proyecto consiste en la resolución técnica de las consignas planteadas durante la instancia de evaluación del primer parcial. Se enfoca en aplicar los fundamentos de la programación y la lógica algorítmica desarrollados durante la primera mitad del cuatrimestre.
+El proyecto consiste en la resolución técnica de las consignas planteadas durante la instancia de evaluación. 
